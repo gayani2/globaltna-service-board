@@ -73,7 +73,7 @@ globaltna-service-board/
     │   └── lib/
     │       └── api.js                # All API calls + auto JWT header
     │
-    ├── .env.local.exampl
+    ├── .env
     └── package.json
 ```
 
